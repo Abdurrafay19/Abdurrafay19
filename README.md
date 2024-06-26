@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)](https://github.com/Abdurrafay19)
-<h1 align="center">Hi 👋, I'm Abdur Rafay ^^</h1>
-<h3 align="center">A Passionate App Developer ╰⁠(⁠ ⁠･⁠ ⁠ᗜ⁠ ⁠･⁠ ⁠)⁠➝</h3>
+<h1 align="center">I'm Abdur Rafay ^^</h1>
+<h3 align="center">An App Developer who loves creating user-friendly mobile apps for Android ^ ^</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/86dd7103ef0de4a8e68fd54fcd9eadd7fdb66ea554d564c1c0c71b50feaa6d46/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f313430305f6f70745f312f3765653233623134333538343330372e363237643130353938333261652e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay19&label=Profile%20views&color=063756&style=flat" alt="abdurrafay19" /> </p>
