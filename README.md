@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay19&label=Profile%20views&color=063756&style=flat" alt="abdurrafay19" /> </p>
 
-- 🌱 I’m currently learning **Web Technologies**
+- 🌱 I’m currently learning **C++**
 
-- 📫 How to reach me **abdurrafay3693@gmail.com**
+- 📫 How to reach me **abdurrafay.codes@gmail.com**
 
 - ⚡ Fun fact **The first computer bug was a moth!**
 
