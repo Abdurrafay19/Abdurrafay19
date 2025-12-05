@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*aniyNTcHORbvDiLGUzJSsQ.gif)](https://github.com/Abdurrafay19)
 <h1 align="center">Hi 👋, I'm Abdur Rafay</h1>
 <h3 align="center">A passionate developer</h3>
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay19&show_icons=true&theme=onedark&locale=en&layout=compact" alt="abdurrafay19" />
+/* <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdurrafay19&show_icons=true&theme=onedark&locale=en&layout=compact" alt="abdurrafay19" /> */
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrafay19&label=Profile%20views&color=ff0000&style=flat" alt="abdurrafay19" /> </p>
 
