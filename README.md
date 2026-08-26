@@ -23,14 +23,6 @@
 
 ---
 
-## About
-
-I'm a computer science student at FAST NUCES (Class of 2029) and a full-stack developer. I spend most of my time building cross-platform applications with Flutter and writing Python backends to build scalable APIs and integrate LLMs into actual workflows. 
-
-I care about offline-first architectures, clean state management, and shipping things that work fast. 
-
----
-
 ## Featured Work
 
 * **[InsafDost AI](https://github.com/abdurrafay19/insaf_dost_backend)**: A legal analysis backend for Pakistani case law. Built the reasoning pipeline using FastAPI, LangGraph, and a Qdrant vector database for semantic search and reranking.
@@ -63,10 +55,3 @@ I care about offline-first architectures, clean state management, and shipping t
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="35" height="35"/></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="35" height="35"/></a>
 <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="35" height="35"/></a>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdurrafay19&show_icons=true&theme=dark&hide_border=false&border_radius=5" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=abdurrafay19&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="195" alt="Streak Graph" />
-</div>
